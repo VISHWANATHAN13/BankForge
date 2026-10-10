@@ -85,13 +85,3 @@ Contributions welcome. Suggested workflow:
 
 This repository does not include a license file. Add a `LICENSE` to define reuse permissions.
 
-## Contact / Next Steps
-
-If you'd like, I can:
-
-- Commit and push this README to the repository
-- Expand the README with diagrams, examples, or environment notes
-- Add a simple `Makefile` or PowerShell script to automate setup
-
----
-Generated on request. For details about any script, inspect the linked files.
