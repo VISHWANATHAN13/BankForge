@@ -1,4 +1,4 @@
-# BankForge (2531814-BankForge)
+# BankForge 
 
 A lightweight demonstration suite for the BankForge MCP (Modular Connector Platform) ecosystem — includes runtime validators, inspection utilities, communication templates, and example servers used for testing and demos.
 
